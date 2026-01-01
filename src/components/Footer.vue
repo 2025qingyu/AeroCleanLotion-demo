@@ -3,7 +3,7 @@
     <div class="container">
       <div class="footer-content">
         <div class="footer-logo">
-          <img src="../assets/images/logo.png" alt="AeroX Logo">
+          <!-- <img src="../assets/images/logo.png" alt="AeroX Logo"> -->
           <p>成都青宇创新科技有限公司</p>
         </div>
         <div class="footer-links">
